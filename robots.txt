@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://massagebybree.com/sitemap.xml
+Disallow: /
